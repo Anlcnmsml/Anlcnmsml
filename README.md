@@ -3,7 +3,7 @@
 
 ---
 
-### 🇬🇧 About Me
+### EN About Me
 I am a 3rd-year Computer Engineering student focusing on creating integrated solutions that span from high-level software architecture down to low-level hardware control. My engineering philosophy is rooted in **robust documentation (SRS/QA)**, **modular design**, and **resource efficiency**. 
 
 #### 🛠 Technical Ecosystem & Experience
@@ -21,7 +21,7 @@ I am a 3rd-year Computer Engineering student focusing on creating integrated sol
 
 ---
 
-### 🇹🇷 Hakkımda
+### TR Hakkımda
 Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği 3. sınıf öğrencisi olarak, yüksek seviyeli yazılım mimarilerinden düşük seviyeli donanım kontrolüne kadar uzanan entegre çözümler geliştirmeye odaklanıyorum. Mühendislik yaklaşımımı; **sağlam dokümantasyon (SRS/QA)**, **modüler tasarım** ve **kaynak verimliliği** üzerine kurguluyorum.
 
 #### 🛠 Teknik Yetkinlik ve Deneyim
