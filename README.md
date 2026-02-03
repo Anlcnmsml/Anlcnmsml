@@ -13,11 +13,11 @@ I am a 3rd-year Computer Engineering student focusing on creating integrated sol
 * **Database Systems:** Architecting scalable relational schemas with **PostgreSQL**, utilizing advanced SQL triggers and procedures.
 
 #### 📂 Featured Repositories (Pinned Projects)
-* **[Health-Guard-ESP32](https://github.com/Anlcnmsml/Health-Guard-ESP32):** Real-time IoT health tracker with fall detection algorithms and sensor fusion.
-* **[Java-In-Memory-Hospital-System](https://github.com/Anlcnmsml/Java-In-Memory-Hospital-System):** Versatile dual-mode management software with full SDLC documentation.
-* **[8086-Microprocessor-Simulations](https://github.com/Anlcnmsml/8086-Microprocessor-Simulations):** Hardware-level programming and interrupt-driven system designs.
-* **[RecycleShare-Database](https://github.com/Anlcnmsml/RecycleShare-Database):** Complex relational database design for waste management automation.
-* **[C-Algorithms-Game-Collection](https://github.com/Anlcnmsml/C-Algorithms-Game-Collection):** Classic games (Tetris/Skippity) focusing on 2D grid logic and memory management.
+* **[Health-Guard-ESP32](https://github.com/Anlcnmsml/ESP32-SmartWatch-HealthTracker):** Real-time IoT health tracker with fall detection algorithms and sensor fusion.
+* **[Java-In-Memory-Hospital-System](https://github.com/Anlcnmsml/Java-Hospital-Appointment-System):** Versatile dual-mode management software with full SDLC documentation.
+* **[8086-Microprocessor-Simulations](https://github.com/Anlcnmsml/8086-Microprocessor-Assembly-Similations):** Hardware-level programming and interrupt-driven system designs.
+* **[RecycleShare-Database](https://github.com/Anlcnmsml/RecycleShare-Database-Project):** Complex relational database design for waste management automation.
+* **[C-Algorithms-Game-Collection](https://github.com/Anlcnmsml/C-Programming-Projects):** Classic games (Tetris/Skippity) focusing on 2D grid logic and memory management.
 
 ---
 
