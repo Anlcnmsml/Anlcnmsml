@@ -17,7 +17,7 @@ Currently, I am working as an **Automation Technical Intern**, gaining hands-on 
 
 #### 📂 Featured Repositories (Pinned Projects)
 * **[Health-Guard-ESP32](https://github.com/Anlcnmsml/ESP32-SmartWatch-HealthTracker):** Real-time IoT health tracker with fall detection algorithms and sensor fusion.
-* **[ROS2-Autonomous-Navigation](#):** Comparative analysis and optimization of ROS2 Nav2 local planners in simulated environments.
+* **[ROS2-Autonomous-Navigation](https://github.com/Anlcnmsml/Ara-Proje):** Comparative analysis and optimization of ROS2 Nav2 local planners in simulated environments.
 * **[Java-In-Memory-Hospital-System](https://github.com/Anlcnmsml/Java-Hospital-Appointment-System):** Versatile dual-mode management software with full SDLC documentation.
 * **[8086-Microprocessor-Simulations](https://github.com/Anlcnmsml/8086-Microprocessor-Assembly-Similations):** Hardware-level programming and interrupt-driven system designs.
 * **[RecycleShare-Database](https://github.com/Anlcnmsml/RecycleShare-Database-Project):** Complex relational database design for waste management automation.
