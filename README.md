@@ -31,17 +31,17 @@ During my internship at Unimak, I gained practical experience working with indus
 
 - Developed a Swing and CLI desktop application using OOP, custom exceptions, and local file persistence.
 
-**[C Programming Projects](https://github.com/Anlcnmsml/C-Programming-Projects)**
+**[Health Guard — ESP32 Wearable Safety System](https://github.com/Anlcnmsml/ESP32-SmartWatch-HealthTracker)**
 
-- Built C games and applications using pointers, structs, dynamic memory allocation, and file operations.
+- Independently developed the Flutter mobile application, BLE communication, and Firebase integration, and made substantial contributions to the ESP32-C3 firmware and safety monitoring algorithms, including I2C sensor integration.
 
 **[ROS 2 Navigation Planner Analysis](https://github.com/Anlcnmsml/Ara-Proje)**
 
 - Compared Nav2 planners in Gazebo simulation and collected performance data with Python scripts.
 
-**[Health Guard — ESP32 Wearable Safety System](https://github.com/Anlcnmsml/ESP32-SmartWatch-HealthTracker)**
+**[C Programming Projects](https://github.com/Anlcnmsml/C-Programming-Projects)**
 
-- Developed an ESP32-C3 wearable system with I2C sensors, BLE communication, and Flutter/Firebase connectivity.
+- Built C games and applications using pointers, structs, dynamic memory allocation, and file operations.
 
 **[8086 Microprocessor Simulations](https://github.com/Anlcnmsml/8086-Microprocessor-Assembly-Similations)**
 
@@ -75,18 +75,18 @@ Unimak’taki stajımda endüstriyel kontrol mantığı, Profinet telemetrisi, S
 **[Java Hastane Randevu Sistemi](https://github.com/Anlcnmsml/Java-Hospital-Appointment-System)**
 
 - OOP ilkeleri, özel hata sınıfları ve yerel dosya depolama kullanarak Swing arayüzü ve komut satırı üzerinden çalışabilen bir masaüstü uygulaması geliştirdim.
+  
+**[Health Guard — ESP32 Giyilebilir Güvenlik Sistemi](https://github.com/Anlcnmsml/ESP32-SmartWatch-HealthTracker)**
+
+- Flutter mobil uygulamasını, BLE iletişimini ve Firebase entegrasyonunu tek başıma geliştirdim; I2C sensör entegrasyonu dâhil ESP32-C3 yazılımına ve güvenlik izleme algoritmalarına kapsamlı katkı sundum.
+
+ **[ROS 2 Navigasyon Planlayıcı Analizi](https://github.com/Anlcnmsml/Ara-Proje)**
+
+- Gazebo simülasyonunda Nav2 planlayıcılarını karşılaştırdım ve Python betikleriyle performans verileri topladım.
 
 **[C Programlama Projeleri](https://github.com/Anlcnmsml/C-Programming-Projects)**
 
 - İşaretçiler, yapılar, dinamik bellek yönetimi ve dosya işlemlerini kullanarak C ile oyunlar ve uygulamalar geliştirdim.
-
-**[ROS 2 Navigasyon Planlayıcı Analizi](https://github.com/Anlcnmsml/Ara-Proje)**
-
-- Gazebo simülasyonunda Nav2 planlayıcılarını karşılaştırdım ve Python betikleriyle performans verileri topladım.
-
-**[Health Guard — ESP32 Giyilebilir Güvenlik Sistemi](https://github.com/Anlcnmsml/ESP32-SmartWatch-HealthTracker)**
-
-- I2C sensörleri, BLE iletişimi ve Flutter/Firebase bağlantısı içeren ESP32-C3 tabanlı giyilebilir bir sistem geliştirdim.
 
 **[8086 Mikroişlemci Simülasyonları](https://github.com/Anlcnmsml/8086-Microprocessor-Assembly-Similations)**
 
