@@ -19,16 +19,18 @@ During my internship at Unimak, I gained practical experience working with indus
 
 **Projects and Repositories**
 
-**Event Management and Ticketing System — Backend Development**
-
-- Developed REST APIs for users, events, reservations, tickets, payment and refund records, and organizer sales reports using Spring Boot, Spring Data JPA, and PostgreSQL.
-- Implemented role-based access with Spring Security and BCrypt password hashing. Added a 10-minute timeout for unpaid reservations, generated unique QR ticket codes, and manually tested API endpoints with Postman.
+**Event Management and Ticketing System — Backend Development:** Developed REST APIs for users, events, reservations, tickets, payment and refund records, and organizer sales reports using Spring Boot, Spring Data JPA, and PostgreSQL. Implemented role-based access with Spring Security and BCrypt password hashing. Added a 10-minute timeout for unpaid reservations, generated unique QR ticket codes, and manually tested API endpoints with Postman.
 
 - **[RecycleShare Database Application](https://github.com/Anlcnmsml/RecycleShare-Database-Project):** PostgreSQL database with triggers, views, stored functions, indexes, and a role-based Python Tkinter interface.
+  
 - **[Java Hospital Appointment System](https://github.com/Anlcnmsml/Java-Hospital-Appointment-System):** Swing and CLI application built with OOP, custom exceptions, and local file persistence.
+  
 - **[C Programming Projects](https://github.com/Anlcnmsml/C-Programming-Projects):** C games using pointers, structs, dynamic memory allocation, and file operations.
+  
 - **[ROS 2 Navigation Planner Analysis](https://github.com/Anlcnmsml/Ara-Proje):** Nav2 planner comparison in Gazebo with Python-based performance data collection.
+  
 - **[Health Guard — ESP32 Wearable Safety System](https://github.com/Anlcnmsml/ESP32-SmartWatch-HealthTracker):** ESP32-C3 wearable system with I2C sensors, BLE, and Flutter/Firebase connectivity.
+  
 - **[8086 Microprocessor Simulations](https://github.com/Anlcnmsml/8086-Microprocessor-Assembly-Similations):** Register-level peripheral simulations in Proteus using 8255 PPI, 8251 USART, and 8259 PIC.
 
 ## TR | Hakkımda
