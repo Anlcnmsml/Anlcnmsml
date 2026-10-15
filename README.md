@@ -13,9 +13,10 @@ During my internship at Unimak, I gained practical experience working with indus
 **Technical Overview**
 
 - **Software and Database Engineering:** Designed PostgreSQL schemas using constraints, triggers, PL/pgSQL functions, views, and indexes. Developed modular Java applications using OOP, custom exceptions, unit testing, and local file persistence.
+- **Backend Development:** Built REST APIs with Spring Boot, Spring Data JPA, and PostgreSQL; implemented role-based authorization with Spring Security and tested endpoints manually with Postman.
 - **Systems Programming:** Built C/C++ applications using pointers, structs, dynamic memory allocation, and file I/O.
 - **Robotics and Simulation:** Compared ROS 2 Nav2 planners in Gazebo and wrote Python scripts to collect performance data.
-- **Embedded and Hardware Systems:** Developed ESP32-C3 wearable systems with sensor integration, BLE, and Flutter/Firebase connectivity; created register-level 8086 Assembly simulations in Proteus.
+- **Embedded and Hardware Systems:** Contributed substantially to ESP32-C3 firmware and safety monitoring algorithms; independently developed the Flutter mobile application, BLE communication, and Firebase integration. Created register-level 8086 Assembly simulations in Proteus.
 
 **Projects and Repositories**
 
@@ -58,9 +59,10 @@ Unimak’taki stajımda endüstriyel kontrol mantığı, Profinet telemetrisi, S
 **Teknik Özet**
 
 - **Yazılım ve Veritabanı:** PostgreSQL üzerinde kısıtlar, tetikleyiciler, PL/pgSQL fonksiyonları, görünümler ve indeksler içeren şemalar tasarladım. Java ile OOP tabanlı uygulamalar geliştirdim.
+- **Backend Geliştirme:** Spring Boot, Spring Data JPA ve PostgreSQL ile REST API’ler geliştirdim; Spring Security ile rol tabanlı yetkilendirme uyguladım ve API uçlarını Postman ile manuel test ettim.
 - **Sistem Programlama:** C/C++ ile işaretçiler, struct yapıları, dinamik bellek yönetimi ve dosya işlemleri kullanan uygulamalar geliştirdim.
 - **Robotik ve Simülasyon:** Gazebo ortamında ROS 2 Nav2 planlayıcılarını karşılaştırdım ve Python ile performans verileri topladım.
-- **Gömülü ve Donanım Sistemleri:** Sensör entegrasyonu ve BLE iletişimi içeren ESP32-C3 sistemleri ile Proteus ortamında 8086 Assembly simülasyonları geliştirdim.
+- **Gömülü ve Donanım Sistemleri:** ESP32-C3 yazılımına ve güvenlik izleme algoritmalarına kapsamlı katkı sundum; Flutter mobil uygulamasını, BLE iletişimini ve Firebase entegrasyonunu tek başıma geliştirdim. Proteus ortamında 8086 Assembly simülasyonları hazırladım.
 
 **Proje Deneyimi**
 
